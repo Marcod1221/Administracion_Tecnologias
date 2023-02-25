@@ -1,5 +1,5 @@
-# **Caso de Estudio 1 - Sesión Interactiva: Tecnología**
-## **Nike se convierte en una empresa Tecnológica**
+# **Caso de Estudio 1 - SESIÓN INTERACTIVA: TECNOLOGÍA**
+## **NIKE SE CONVIERTE EN UNA EMPRESA TECNOLÓGICA**
 ### Preguntas del Caso de Estudio
 1. **Evalúe el hecho de que Nike use las fuerzas competitivas y los modelos de la cadena de valor.**
 
@@ -17,3 +17,14 @@ Cuando hablamos de Nike como una compañia tecnológica es que trate de enfocars
 4. **¿Qué tanta ventaja tiene Nike sobre sus competidores? Explique su respuesta**
 
 Nike se encoa en mejorar la relación con sus clientes, adoptando sus productos con el software donde los usuarios pueden registrar todos sus avances y poder compartir sus resultados con sus amigos. También se centro en crear prdouctos exclusivos para cada deprote que realicen sus usuarios, también algo que los hace diferentes con sus competencias es que utilizaron los sistemas de información y los servicios al cliente para así poder estan actualizados a los nuevos tiempos y seguir mejorando en estos aspectos.
+
+# **Caso de estudio 2 - SESIÓN INTERACTIVA: ORGANIZACIONES**
+## **IDENTIFICACIÓN DE LOS NICHOS DEL MERCADO EN LA ERA DE BIG DATA**
+### Preguntas del Caso de Estudio
+1. **Describa los tipos de datos que las empresas analizan en este caso.**
+
+2. **¿Cómo está mejorando este análisis de datos detallado las operaciones y la toma de decisiones en las empresas descritas en este caso? ¿Qué estrategias de negocios se están apoyando?**
+
+3. **¿Hay desventajas al extraer los datos de los clientes? Explique su respuesta**
+
+4. **¿Cómo se siente con el hecho de que sus aerolineas extraigan sus datos del vuelo? ¿En esto distinto de las empresas que extraen los datos de sus comprars con tarjeta de crédito o de navegación Web?**

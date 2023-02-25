@@ -23,8 +23,22 @@ Nike se encoa en mejorar la relación con sus clientes, adoptando sus productos 
 ### Preguntas del Caso de Estudio
 1. **Describa los tipos de datos que las empresas analizan en este caso.**
 
+Después de haber leido el caso de estudio se puede deducir que se basaron en analizar el comportamiento que tiene las personas mencionando lo que es la manera en como compran boletos, dentro de un avion, como los hábitos para leer, entre otras. Estos datos ayudan cuando se trara del marketing ya que a través de este se pueden llegar a crear mensajes personalizados basandose en las preferencias de cada usuario cuando estan navengando y accediendo a los diferentes sitios Web. Todo esto es posible gracias a las herramientas de software que se han creado para hacer un análisis en busca de patrones dentro de toda la información que se va recolentando y asi por medio de esto poder darle una mejor visión de lo que quieren obtener o hacer.
+
 2. **¿Cómo está mejorando este análisis de datos detallado las operaciones y la toma de decisiones en las empresas descritas en este caso? ¿Qué estrategias de negocios se están apoyando?**
+
+Lo que se está tratando de mejorar en este análisis de datos es que cada persona pueda tomar la mejor decisión, informándolos sobre lo que quieren obtener y hacer que esta decisión sea más precisa para que luego no se lleven una mal experiencia, una de las estrategias es utilizar los sistemas de información para proporcionar información más precisa analizando los datos que se obtiene por medio de las opiniones de sus consumidores, como identificar las características de los productos o servicios en base a sus preferencias o deseos.
 
 3. **¿Hay desventajas al extraer los datos de los clientes? Explique su respuesta**
 
-4. **¿Cómo se siente con el hecho de que sus aerolineas extraigan sus datos del vuelo? ¿En esto distinto de las empresas que extraen los datos de sus comprars con tarjeta de crédito o de navegación Web?**
+Por su puesto que siempre van a ven desventajas cuando se trata de extraer los datos de los clientes esto porque estamos invadiendo la privacidad de los clientes, haciendo que estos se sientan inseguros como nos mostraba este caso de estudio cuando estos clientes se conectaban a internet y accedían al sitio Web denominado DL.com los cuales los redirigía a un perfil personalizado para este mismo el cual contiene información detallada de las millas que se iban acumulando cuando viaja.
+
+Además de los vuelos que adquiere en su aeropuerto el cual incluye los gastos anuales, donde también se adentró a sus datos personales refiriéndose al precio de su casa y los rangos de edades de sus hijos esto para proporcionarle paquetes familiares, además de sus preferencias en hoteles y el tipo de tarjeta de crédito que usaba.  
+
+Por este caso que se muestra es que la extracción de datos llega a tener desventajas porque las empresas no saben cómo utilizar esto datos lo cual les genera pérdidas, pero al saber cómo administrar esta información hace que les sea muy útiles cuando tratan de ofrecerle un servicio o producto a sus clientes.
+
+4. **¿Cómo se siente con el hecho de que sus aerolíneas extraigan sus datos del vuelo? ¿En esto distinto de las empresas que extraen los datos de sus compras con tarjeta de crédito o de navegación Web?**
+
+Con el hecho de que las aerolíneas esten extraendo información sobre mis datos de vuelo lo esten haciendo para basarse en mis preferencias, esto lo puedo ver de una forma positiva porque se estan centrando en ofrecernos mejores paquetes de vuelos, haciendo que esto sea de mucha ayuda a lo hora de viajar a otro lugar.
+
+Con respecto a la extracción de datos por medio de mis compras con tarjeta de crédito o de navegación web para mi no resulta ser distinto, porque no creo que sea una formalmente moral lo que estaria haciendo, porque estarían invandiendo mi privacidad con tal de obtener información.
